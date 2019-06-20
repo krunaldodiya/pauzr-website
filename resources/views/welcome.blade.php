@@ -144,7 +144,7 @@
                 <div class="col-lg-12 text-center">
                     <div class="section-heading">
                         <h2>Fantastic Features, Unlimited Fun</h2>
-                        <p class="text-muted">Check out what you can do with this app theme!</p>
+                        <p class="text-muted">Check out what you can do with this app!</p>
                         <hr>
                     </div>
                 </div>
