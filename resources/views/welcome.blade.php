@@ -126,7 +126,7 @@
             <div class="row">
                 <div class="col-md-8 col-md-offset-2">
                     <h2 class="section-heading">Discover what all the buzz is about!</h2>
-                    <p>Our app is available on any mobile device! Download now to get started!</p>
+                    <p>Our app is available on any android device! Download now to get started!</p>
                     <div class="badges">
                         <a class="badge-link" href="#">
                             <img src="/images/google-play-badge.svg" alt="">
