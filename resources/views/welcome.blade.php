@@ -50,6 +50,7 @@
                                 <b>PauzR</b> is an app which aims to reduce mobile phone addiction!
                                 <br>
                                 <br>
+                                <br>
                                 <i>If your phone usage per day is more than 2 hrs, this is for you.</i>
                             </h1>
                             <div style="height: 200px"></div>
