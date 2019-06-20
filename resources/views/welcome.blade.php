@@ -43,7 +43,7 @@
     <header>
         <div class="container">
             <div class="row">
-                <div class="col-sm-7">
+                <div class="col-sm-5">
                     <div class="header-content">
                         <div class="header-content-inner">
                             <h1>Pauzr is an app landing page that will help you beautifully showcase your new mobile
