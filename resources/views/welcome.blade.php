@@ -64,14 +64,14 @@
                         <div class="col-sm-4">
                             <div class="device-container">
                                 <div class="screen" style="width: 360px;">
-                                    <img src="/images/s2.png" class="img-responsive" alt="">
+                                    <img src="/images/s3.png" class="img-responsive" alt="">
                                 </div>
                             </div>
                         </div>
                         <div class="col-sm-4">
                             <div class="device-container">
                                 <div class="screen" style="width: 360px;">
-                                    <img src="/images/s3.png" class="img-responsive" alt="">
+                                    <img src="/images/s2.png" class="img-responsive" alt="">
                                 </div>
                             </div>
                         </div>
@@ -117,12 +117,8 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="device-container">
-                        <div class="device-mockup iphone6_plus portrait white">
-                            <div class="device">
-                                <div class="screen"><img src="/images/demo-screen-1.jpg" class="img-responsive" alt="">
-                                </div>
-                                <div class="button"></div>
-                            </div>
+                        <div class="screen" style="width: 360px;">
+                            <img src="/images/s3.png" class="img-responsive" alt="">
                         </div>
                     </div>
                 </div>
