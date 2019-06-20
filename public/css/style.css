@@ -301,7 +301,7 @@ section.cta {
     background-size: cover;
     -o-background-size: cover;
     background-position: center;
-    background-image: url("/banner/image");
+    background-image: url("../images/bg-cta.jpg");
     padding: 250px 0;
 }
 
