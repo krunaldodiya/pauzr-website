@@ -301,7 +301,7 @@ section.cta {
     background-size: cover;
     -o-background-size: cover;
     background-position: center;
-    background-image: url("https://www.pauzr-website.test/banner/image");
+    background-image: url("/banner/image");
     padding: 250px 0;
 }
 
