@@ -32,6 +32,7 @@
                 <a class="navbar-brand page-scroll" href="#page-top">Pauzr</a></div>
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
+                    <li class=""><a class="page-scroll" href="#how-it-works">How it works</a></li>
                     <li class=""><a class="page-scroll" href="#download">Download</a></li>
                     <li class=""><a class="page-scroll" href="#features">Features</a></li>
                     <li class=""><a class="page-scroll" href="#contact">Contact</a></li>
@@ -67,7 +68,7 @@
         </div>
     </header>
 
-    <section id="download" class="download bg-default text-center"
+    <section id="how-it-works" class="how-it-works bg-default text-center"
         style="background-image: url(../images/how-it-works.jpg);">
         <div class="container">
             <div class="row" style="height:720px"></div>
