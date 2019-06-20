@@ -119,7 +119,7 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="device-container">
-                        <div class="screen" style="width: 360px;">
+                        <div class="screen">
                             <img src="/images/s3.png" class="img-responsive" alt="">
                         </div>
                     </div>
