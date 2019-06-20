@@ -46,7 +46,7 @@
                 <div class="col-sm-4">
                     <div class="header-content">
                         <div class="header-content-inner">
-                            <h1>Pauzr is an app landing page!</h1>
+                            <h1>Pauzr is an app that will help you find friends & earn rewards!</h1>
                             <a href="#download" class="btn btn-outline btn-xl page-scroll">Start Now
                                 for Free!</a>
                         </div>
@@ -56,22 +56,22 @@
                     <div class="row">
                         <div class="col-sm-4">
                             <div class="device-container">
-                                <div class="screen" style="width: 240px;">
-                                    <img src="/images/ss.jpg" class="img-responsive" alt="">
+                                <div class="screen" style="width: 360px;">
+                                    <img src="/images/s1.png" class="img-responsive" alt="">
                                 </div>
                             </div>
                         </div>
                         <div class="col-sm-4">
                             <div class="device-container">
-                                <div class="screen" style="width: 240px;">
-                                    <img src="/images/ss.jpg" class="img-responsive" alt="">
+                                <div class="screen" style="width: 360px;">
+                                    <img src="/images/s2.png" class="img-responsive" alt="">
                                 </div>
                             </div>
                         </div>
                         <div class="col-sm-4">
                             <div class="device-container">
-                                <div class="screen" style="width: 240px;">
-                                    <img src="/images/ss.jpg" class="img-responsive" alt="">
+                                <div class="screen" style="width: 360px;">
+                                    <img src="/images/s3.png" class="img-responsive" alt="">
                                 </div>
                             </div>
                         </div>
