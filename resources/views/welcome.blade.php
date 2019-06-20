@@ -57,16 +57,6 @@
                     <div class="device-container">
                         <div class="screen"><img src="/images/ss.png" class="img-responsive" alt=""></div>
                     </div>
-
-                    {{-- <div class="device-container">
-                        <div class="device-mockup iphone6_plus portrait white">
-                            <div class="device">
-                                <div class="screen"><img src="/images/ss.png" class="img-responsive" alt="">
-                                </div>
-                                <div class="button"></div>
-                            </div>
-                        </div>
-                    </div> --}}
                 </div>
             </div>
         </div>
@@ -171,8 +161,8 @@
     <section class="cta">
         <div class="cta-content">
             <div class="container">
-                <h2>Stop waiting.<br>
-                    Start building.</h2>
+                <h2>Cheers to<br>
+                    All Winners.</h2>
                 <a href="#contact" class="btn btn-outline btn-xl page-scroll">Let's Get Started!</a>
             </div>
         </div>
