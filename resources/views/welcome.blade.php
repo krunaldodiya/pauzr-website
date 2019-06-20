@@ -67,18 +67,10 @@
         </div>
     </header>
 
-    <section id="download" class="download bg-default text-center">
+    <section id="download" class="download bg-default text-center"
+        style="background-image: url(../images/how-it-works.jpg);">
         <div class="container">
-            <div class="row">
-                <div class="col-md-8 col-md-offset-2">
-                    <h2 class="section-heading">How it works!</h2>
-                    <p>Our app is available on any mobile device! Download now to get started!</p>
-                    <div class="badges"><a class="badge-link" href="#"><img src="/images/google-play-badge.svg"
-                                alt=""></a> <a class="badge-link" href="#"><img src="/images/app-store-badge.svg"
-                                alt=""></a>
-                    </div>
-                </div>
-            </div>
+            <div class="row" style="height:720px"></div>
         </div>
     </section>
 
@@ -159,6 +151,7 @@
             </div>
         </div>
     </section>
+
     <section class="cta">
         <div class="cta-content">
             <div class="container">
@@ -169,6 +162,7 @@
         </div>
         <div class="overlay"></div>
     </section>
+
     <section id="contact" class="contact bg-primary">
         <div class="container">
             <h2>We <i class="fa fa-heart"></i> new friends!</h2>
