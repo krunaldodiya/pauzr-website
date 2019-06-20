@@ -56,7 +56,8 @@
                     <div class="device-container">
                         <div class="device-mockup iphone6_plus portrait white">
                             <div class="device">
-                                <div class="screen"><img src="/demo-screen-1.jpg" class="img-responsive" alt=""></div>
+                                <div class="screen"><img src="/images/demo-screen-1.jpg" class="img-responsive" alt="">
+                                </div>
                                 <div class="button"></div>
                             </div>
                         </div>
@@ -84,7 +85,7 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <div class="section-heading">
-                        <h2>Unlimited Features, Unlimited Fun</h2>
+                        <h2>Fantastic Features, Unlimited Fun</h2>
                         <p class="text-muted">Check out what you can do with this app theme!</p>
                         <hr>
                     </div>
