@@ -3,6 +3,7 @@
     width: 100%;
     padding-bottom: 61.775701%;
 }
+
 .device-mockup > .device {
     position: absolute;
     top: 0;
@@ -15,6 +16,7 @@
     background-repeat: no-repeat;
     background-image: url(../images/macbook.png);
 }
+
 .device-mockup > .device > .screen {
     position: absolute;
     top: 11.0438729%;
