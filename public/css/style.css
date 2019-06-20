@@ -148,9 +148,9 @@ header {
     overflow-y: hidden;
     background: url(../images/bg-pattern.png), #006feb;
     background: url(../images/bg-pattern.png),
-        -webkit-linear-gradient(to left, #006feb, #00bfff);
+        -webkit-linear-gradient(to left, lightblue, #0d62a2);
     background: url(../images/bg-pattern.png),
-        linear-gradient(to left, #006feb, #00bfff);
+        linear-gradient(to left, lightblue, #0d62a2);
     color: #fff;
 }
 header .header-content {
