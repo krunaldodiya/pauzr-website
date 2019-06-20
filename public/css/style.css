@@ -146,10 +146,10 @@ header {
     width: 100%;
     min-height: auto;
     overflow-y: hidden;
-    background: url(../image/bg-pattern.png), #7b4397;
-    background: url(../image/bg-pattern.png),
+    background: url(../images/bg-pattern.png), #7b4397;
+    background: url(../images/bg-pattern.png),
         -webkit-linear-gradient(to left, #7b4397, #dc2430);
-    background: url(../image/bg-pattern.png),
+    background: url(../images/bg-pattern.png),
         linear-gradient(to left, #7b4397, #dc2430);
     color: #fff;
 }
@@ -301,7 +301,7 @@ section.cta {
     background-size: cover;
     -o-background-size: cover;
     background-position: center;
-    background-image: url(../img/bg-cta.jpg);
+    background-image: url(../images/bg-cta.jpg);
     padding: 250px 0;
 }
 section.cta .cta-content {
