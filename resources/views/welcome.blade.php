@@ -55,7 +55,9 @@
                 </div>
                 <div class="col-sm-5">
                     <div class="device-container">
-                        <div class="screen"><img src="/images/ss.png" class="img-responsive" alt=""></div>
+                        <div class="screen" style="width: 720px!important;">
+                            <img src="/images/ss.png" class="img-responsive" alt="">
+                        </div>
                     </div>
                 </div>
             </div>
