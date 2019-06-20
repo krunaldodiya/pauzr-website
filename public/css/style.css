@@ -146,11 +146,11 @@ header {
     width: 100%;
     min-height: auto;
     overflow-y: hidden;
-    background: url(../images/bg-pattern.png), #7b4397;
+    background: url(../images/bg-pattern.png), #006feb;
     background: url(../images/bg-pattern.png),
-        -webkit-linear-gradient(to left, #7b4397, #dc2430);
+        -webkit-linear-gradient(to left, #006feb, #00bfff);
     background: url(../images/bg-pattern.png),
-        linear-gradient(to left, #7b4397, #dc2430);
+        linear-gradient(to left, #006feb, #00bfff);
     color: #fff;
 }
 header .header-content {
