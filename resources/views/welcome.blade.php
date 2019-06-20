@@ -55,14 +55,18 @@
                 </div>
                 <div class="col-sm-5">
                     <div class="device-container">
+                        <div class="screen"><img src="/images/ss.png" class="img-responsive" alt=""></div>
+                    </div>
+
+                    {{-- <div class="device-container">
                         <div class="device-mockup iphone6_plus portrait white">
                             <div class="device">
-                                <div class="screen"><img src="/images/demo-screen-1.jpg" class="img-responsive" alt="">
+                                <div class="screen"><img src="/images/ss.png" class="img-responsive" alt="">
                                 </div>
                                 <div class="button"></div>
                             </div>
                         </div>
-                    </div>
+                    </div> --}}
                 </div>
             </div>
         </div>
