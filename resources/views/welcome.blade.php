@@ -43,20 +43,37 @@
     <header>
         <div class="container">
             <div class="row">
-                <div class="col-sm-5">
+                <div class="col-sm-4">
                     <div class="header-content">
                         <div class="header-content-inner">
-                            <h1>Pauzr is an app landing page that will help you beautifully showcase your new mobile
-                                app, or anything else!</h1>
+                            <h1>Pauzr is an app landing page!</h1>
                             <a href="#download" class="btn btn-outline btn-xl page-scroll">Start Now
                                 for Free!</a>
                         </div>
                     </div>
                 </div>
-                <div class="col-sm-5">
-                    <div class="device-container">
-                        <div class="screen" style="width: 720px!important;">
-                            <img src="/images/ss.png" class="img-responsive" alt="">
+                <div class="col-sm-8">
+                    <div class="row">
+                        <div class="col-sm-4">
+                            <div class="device-container">
+                                <div class="screen" style="width: 240px;">
+                                    <img src="/images/ss.jpg" class="img-responsive" alt="">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-4">
+                            <div class="device-container">
+                                <div class="screen" style="width: 240px;">
+                                    <img src="/images/ss.jpg" class="img-responsive" alt="">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-4">
+                            <div class="device-container">
+                                <div class="screen" style="width: 240px;">
+                                    <img src="/images/ss.jpg" class="img-responsive" alt="">
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
