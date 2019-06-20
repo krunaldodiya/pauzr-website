@@ -66,6 +66,22 @@
             </div>
         </div>
     </header>
+
+    <section id="download" class="download bg-default text-center">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2">
+                    <h2 class="section-heading">How it works!</h2>
+                    <p>Our app is available on any mobile device! Download now to get started!</p>
+                    <div class="badges"><a class="badge-link" href="#"><img src="/images/google-play-badge.svg"
+                                alt=""></a> <a class="badge-link" href="#"><img src="/images/app-store-badge.svg"
+                                alt=""></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <section id="download" class="download bg-primary text-center">
         <div class="container">
             <div class="row">
@@ -80,6 +96,7 @@
             </div>
         </div>
     </section>
+
     <section id="features" class="features">
         <div class="container">
             <div class="row">
