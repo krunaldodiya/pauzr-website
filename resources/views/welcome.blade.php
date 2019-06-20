@@ -118,31 +118,42 @@
                         <div class="row">
                             <div class="col-md-6">
                                 <div class="feature-item"><i class="icon-screen-smartphone text-primary"></i>
-                                    <h3>Device Mockups</h3>
-                                    <p class="text-muted">Ready to use HTML/CSS device mockups, no Photoshop required!
+                                    <h3>Three Pause Durations</h3>
+                                    <p class="text-muted">20mins, 40mins or
+                                        60mins. For how long
+                                        can you pause your
+                                        phone?
                                     </p>
                                 </div>
                             </div>
                             <div class="col-md-6">
-                                <div class="feature-item"><i class="icon-camera text-primary"></i>
-                                    <h3>Flexible Use</h3>
-                                    <p class="text-muted">Put an image, video, animation, or anything else in the
-                                        screen!</p>
+                                <div class="feature-item"><i class="icon-people text-primary"></i>
+                                    <h3>Create Groups</h3>
+                                    <p class="text-muted">Create groups with
+                                        friends, family &
+                                        colleagues and
+                                        compete among each
+                                        other!</p>
                                 </div>
                             </div>
                         </div>
                         <div class="row">
                             <div class="col-md-6">
-                                <div class="feature-item"><i class="icon-present text-primary"></i>
-                                    <h3>Free to Use</h3>
-                                    <p class="text-muted">As always, this theme is free to download and use for any
-                                        purpose!</p>
+                                <div class="feature-item"><i class="icon-magic-wand text-primary"></i>
+                                    <h3>Different Themes</h3>
+                                    <p class="text-muted">We got your mood
+                                        covered with 3
+                                        fantastic singleclick themes in the
+                                        app. Check 'em out!</p>
                                 </div>
                             </div>
                             <div class="col-md-6">
-                                <div class="feature-item"><i class="icon-lock-open text-primary"></i>
-                                    <h3>Open Source</h3>
-                                    <p class="text-muted">Since this theme is MIT licensed, you can use it commercially!
+                                <div class="feature-item"><i class="icon-location-pin text-primary"></i>
+                                    <h3>City Level Scoreboard</h3>
+                                    <p class="text-muted">Check how others are
+                                        performing in your
+                                        city. You gotta beat
+                                        them!
                                     </p>
                                 </div>
                             </div>
