@@ -46,10 +46,13 @@
                 <div class="col-sm-4">
                     <div class="header-content">
                         <div class="header-content-inner">
-                            <h1>PauzR is an app which aims to reduce mobile phone addiction!
-                                (If your phone usage per day is more than 2 hrs, this is for you)</h1>
-                            <a href="#download" class="btn btn-outline btn-xl page-scroll">Start Now
-                                for Free!</a>
+                            <h1 style="font-size:30px">
+                                <b>PauzR</b> is an app which aims to reduce mobile phone addiction!
+                                <br>
+                                <br>
+                                <i>If your phone usage per day is more than 2 hrs, this is for you.</i>
+                            </h1>
+                            <div style="height: 200px"></div>
                         </div>
                     </div>
                 </div>
