@@ -133,7 +133,7 @@
                     <h2 class="section-heading">Discover what all the buzz is about!</h2>
                     <p>Our app is available on any android device! Download now to get started!</p>
                     <div class="badges">
-                        <a class="badge-link" href="#">
+                        <a class="badge-link" href="https://play.google.com/store/apps/details?id=com.pauzr.org">
                             <img src="/images/google-play-badge.svg" alt="">
                         </a>
                         {{-- <a class="badge-link" href="#"><img src="/images/app-store-badge.svg" alt=""></a> --}}
