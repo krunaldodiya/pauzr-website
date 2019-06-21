@@ -32,10 +32,10 @@
                 <a class="navbar-brand page-scroll" href="#page-top">PauzR</a></div>
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
-                    <li class=""><a class="page-scroll" style="color:white" href="#how-it-works">How it works</a></li>
-                    <li class=""><a class="page-scroll" style="color:white" href="#download">Download</a></li>
-                    <li class=""><a class="page-scroll" style="color:white" href="#features">Features</a></li>
-                    <li class=""><a class="page-scroll" style="color:white" href="#contact">Contact</a></li>
+                    <li class=""><a class="page-scroll" href="#how-it-works">How it works</a></li>
+                    <li class=""><a class="page-scroll" href="#download">Download</a></li>
+                    <li class=""><a class="page-scroll" href="#features">Features</a></li>
+                    <li class=""><a class="page-scroll" href="#contact">Contact</a></li>
                 </ul>
             </div>
         </div>
