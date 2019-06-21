@@ -242,7 +242,7 @@
                 <li><a href="#">Privacy</a></li>
                 <li><a href="#">Terms</a></li>
             </ul>
-            <p>have any query ? mail us at <a href="mailto:support@pauzr.com">support@pauzr.com</a></p>
+            <p>Have any query? Mail us at <a href="mailto:support@pauzr.com">support@pauzr.com</a></p>
         </div>
     </footer>
     <script src="/js/jquery.min.js"></script>
