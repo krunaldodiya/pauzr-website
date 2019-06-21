@@ -395,8 +395,8 @@ footer ul li a:hover {
 }
 .bg-primary {
     background: #00bfff;
-    background: -webkit-linear-gradient(#00bfff, #006feb);
-    background: linear-gradient(#00bfff, #006feb);
+    background: -webkit-linear-gradient(#0d62a2, lightblue);
+    background: linear-gradient(#0d62a2, lightblue);
 }
 .text-primary {
     color: #00bfff;
