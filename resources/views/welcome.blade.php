@@ -91,29 +91,29 @@
             <div class="row">
                 <div class="col-sm-3">
                     <div class="device-container">
-                        <div class="screen" style="width: 360px;">
-                            <img src="/images/s1.png" class="img-responsive" alt="">
+                        <div class="screen" style="width: 300px; border:1px solid #ccc;">
+                            <img src="/images/howitworks.png" class="img-responsive" alt="">
                         </div>
                     </div>
                 </div>
                 <div class="col-sm-3">
                     <div class="device-container">
-                        <div class="screen" style="width: 360px;">
-                            <img src="/images/s3.png" class="img-responsive" alt="">
+                        <div class="screen" style="width: 300px; border:1px solid #ccc;">
+                            <img src="/images/w1.png" class="img-responsive" alt="">
                         </div>
                     </div>
                 </div>
                 <div class="col-sm-3">
                     <div class="device-container">
-                        <div class="screen" style="width: 360px;">
-                            <img src="/images/s2.png" class="img-responsive" alt="">
+                        <div class="screen" style="width: 300px; border:1px solid #ccc;">
+                            <img src="/images/w2.png" class="img-responsive" alt="">
                         </div>
                     </div>
                 </div>
                 <div class="col-sm-3">
                     <div class="device-container">
-                        <div class="screen" style="width: 360px;">
-                            <img src="/images/s3.png" class="img-responsive" alt="">
+                        <div class="screen" style="width: 300px; border:1px solid #ccc;">
+                            <img src="/images/w3.png" class="img-responsive" alt="">
                         </div>
                     </div>
                 </div>
@@ -208,7 +208,7 @@
         </div>
     </section>
 
-    <section class="cta">
+    {{-- <section class="cta">
         <div class="cta-content">
             <div class="container">
                 <h2>Cheers to<br>
@@ -217,7 +217,7 @@
             </div>
         </div>
         <div class="overlay"></div>
-    </section>
+    </section> --}}
 
     <section id="contact" class="contact bg-primary">
         <div class="container">
