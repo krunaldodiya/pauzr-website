@@ -3,16 +3,20 @@
 <html lang="en">
 
 <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <title>Pauzr</title>
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
     <link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="/css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="/css/simple-line-icons.css">
     <link rel="stylesheet" type="text/css" href="/css/device-mockups.min.css">
     <link rel="stylesheet" type="text/css" href="/css/style.css">
+
+    <link id="favicon" rel="shortcut icon" href="/images/favicon.png" type="image/png">
+
     <link href="http://fonts.googleapis.com/css?family=Lato">
     <link href="http://fonts.googleapis.com/css?family=Catamaran:100,200,300,400,500,600,700,800,900">
     <link href="http://fonts.googleapis.com/css?family=Muli">
@@ -159,7 +163,7 @@
                 <div class="col-md-4">
                     <div class="device-container">
                         <div class="screen">
-                            <img src="/images/s3.png" class="img-responsive" alt="">
+                            <img src="/images/pauzr.png" class="img-responsive" alt="">
                         </div>
                     </div>
                 </div>
@@ -229,9 +233,14 @@
         <div class="container">
             <h2>We <i class="fa fa-heart"></i> new friends!</h2>
             <ul class="list-inline list-social">
-                <li class="social-twitter"><a href="#"><i class="fa fa-twitter"></i></a></li>
-                <li class="social-facebook"><a href="#"><i class="fa fa-facebook"></i></a></li>
-                <li class="social-google-plus"><a href="#"><i class="fa fa-google-plus"></i></a>
+                <li class="social-twitter"><a href="https://www.twitter.com" target="_blank">
+                        <i class="fa fa-twitter"></i></a>
+                </li>
+                <li class="social-facebook"><a href="https://www.facebook.com" target="_blank">
+                        <i class="fa fa-facebook"></i></a>
+                </li>
+                <li class="social-instagram"><a href="https://www.instagram.com" target="_blank">
+                        <i class="fa fa-instagram"></i></a>
                 </li>
             </ul>
         </div>
