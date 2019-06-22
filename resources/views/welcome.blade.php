@@ -28,27 +28,9 @@
 
 <body id="page-top" cz-shortcut-listen="true">
     <nav id="mainNav" class="navbar navbar-default navbar-fixed-top affix-top">
-        <div class="container">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
-                    data-target="#bs-example-navbar-collapse-1"><span class="sr-only">Toggle navigation</span> Menu <i
-                        class="fa fa-bars"></i></button>
-                <a class="navbar-brand page-scroll" href="#page-top">PauzR</a></div>
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                <ul class="nav navbar-nav navbar-right">
-                    <li class=""><a class="page-scroll" style="color:grey;font-weight:bold;font-size:10px;"
-                            href="#how-it-works">How it works</a></li>
-                    <li class=""><a class="page-scroll" style="color:grey;font-weight:bold;font-size:10px;"
-                            href="#download">Download</a></li>
-                    <li class=""><a class="page-scroll" style="color:grey;font-weight:bold;font-size:10px;"
-                            href="#features">Features</a></li>
-                    <li class=""><a class="page-scroll" style="color:grey;font-weight:bold;font-size:10px;"
-                            href="#contact">Contact</a>
-                    </li>
-                </ul>
-            </div>
-        </div>
+        @include('nav')
     </nav>
+
     <header>
         <div class="container">
             <div class="row">
@@ -233,24 +215,25 @@
         <div class="container">
             <h2>We <i class="fa fa-heart"></i> new friends!</h2>
             <ul class="list-inline list-social">
-                <li class="social-twitter"><a href="https://www.twitter.com" target="_blank">
+                <li class="social-twitter"><a href="https://twitter.com/PauzrApp" target="_blank">
                         <i class="fa fa-twitter"></i></a>
                 </li>
                 <li class="social-facebook"><a href="https://www.facebook.com/pauzr.tech" target="_blank">
                         <i class="fa fa-facebook"></i></a>
                 </li>
-                <li class="social-instagram"><a href="https://www.instagram.com" target="_blank">
+                <li class="social-instagram"><a href="https://www.instagram.com/pauzrapp" target="_blank">
                         <i class="fa fa-instagram"></i></a>
                 </li>
             </ul>
         </div>
     </section>
+
     <footer>
         <div class="container">
             <p>Copyright © All Rights Reserved</p>
             <ul class="list-inline">
-                <li><a href="#">Privacy</a></li>
-                <li><a href="#">Terms</a></li>
+                <li><a href="/privacy">Privacy</a></li>
+                <li><a href="/terms">Terms</a></li>
             </ul>
             <p>Have any query? Mail us at <a href="mailto:support@pauzr.com">support@pauzr.com</a></p>
         </div>
