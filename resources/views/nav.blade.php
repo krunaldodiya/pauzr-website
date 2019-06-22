@@ -8,7 +8,7 @@
         @if(Request::path() == "/")
         <a class="navbar-brand page-scroll" href="#page-top">PauzR</a>
         @else
-        <a class="navbar-brand page-scroll" href="/">PauzR</a>
+        <a class="navbar-brand page-scroll" href="/" style="color: black !important;">PauzR</a>
         @endif
     </div>
 
