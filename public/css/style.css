@@ -375,10 +375,12 @@ section.contact ul.list-social li.social-facebook a:hover {
     background-color: #344e86;
 }
 section.contact ul.list-social li.social-instagram a {
-    background-color: #d387ab;
+    /* background-color: #d387ab; */
+    background: linear-gradient(#833ab4, #fd1d1d, #fcb045);
 }
 section.contact ul.list-social li.social-instagram a:hover {
-    background-color: #e899dc;
+    /* background-color: #e899dc; */
+    background: linear-gradient(#833ab4, #fd1d1d, #fcb045);
 }
 footer {
     background-color: rgb(39, 33, 33);

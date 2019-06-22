@@ -236,7 +236,7 @@
                 <li class="social-twitter"><a href="https://www.twitter.com" target="_blank">
                         <i class="fa fa-twitter"></i></a>
                 </li>
-                <li class="social-facebook"><a href="https://www.facebook.com" target="_blank">
+                <li class="social-facebook"><a href="https://www.facebook.com/pauzr.tech" target="_blank">
                         <i class="fa fa-facebook"></i></a>
                 </li>
                 <li class="social-instagram"><a href="https://www.instagram.com" target="_blank">
