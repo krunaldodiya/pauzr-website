@@ -218,7 +218,7 @@
                 <li class="social-twitter"><a href="https://twitter.com/PauzrApp" target="_blank">
                         <i class="fa fa-twitter"></i></a>
                 </li>
-                <li class="social-facebook"><a href="https://www.facebook.com/pauzr.tech" target="_blank">
+                <li class="social-facebook"><a href="https://www.facebook.com/pauzrapp" target="_blank">
                         <i class="fa fa-facebook"></i></a>
                 </li>
                 <li class="social-instagram"><a href="https://www.instagram.com/pauzrapp" target="_blank">
