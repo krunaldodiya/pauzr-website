@@ -10,6 +10,10 @@ Route::get('/terms', function () {
     return view('terms');
 });
 
+Route::get('/invite/{user_id}/{mobile}', function ($user_id, $mobile) {
+    return redirect("https://api.pauzr.com/api/invite/$user_id/$mobile");
+});
+
 Route::get('/privacy', function () {
     return view('privacy');
 });
