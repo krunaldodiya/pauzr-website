@@ -36,22 +36,23 @@
         <p style="font-weight: 400;"><strong><u>FAQs</u></strong></p>
 
         <ol>
-            <li><strong>What is PauzR?</strong><br /> Created to reduce phone addiction and improve concentration, PauzR
-                rewards users every day for keeping the phone locked successfully for durations provided in the app.
-            </li>
-            <li><strong>How does PauzR work?</strong></li>
+            <li style="text-align: left;"><strong>What is PauzR?</strong><br /> Created to reduce phone addiction and
+                improve concentration, PauzR rewards users every day for keeping the phone locked successfully for
+                durations provided in the app.</li>
+            <li style="text-align: left;"><strong>How does PauzR work?</strong></li>
         </ol>
-        <p><img src="https://api.pauzr.com/storage/uHnaiUkb2qkoE4jCq9lk2Y8AYu5xUX63LG28wHQj.jpeg" alt="" width="181"
+        <p style="text-align: left;"><img
+                src="https://api.pauzr.com/storage/uHnaiUkb2qkoE4jCq9lk2Y8AYu5xUX63LG28wHQj.jpeg" alt="" width="181"
                 height="321" /><br /> <br /> PauzR will track the time for which the timer (20 or 40 or 60 minutes)
             inside the app was on. For successful 20 minutes, 1 point; for 40 minutes, 3 points; for 60 minutes, 5
             minutes are added to the account.</p>
-        <ol start="3">
+        <ol style="text-align: left;" start="3">
             <li><strong>How do I invite friends?</strong></li>
         </ol>
-        <p>In the side menu, you can click on &lsquo;Invite and Earn&rsquo; and select friends you want to invite. If
-            your friend uses the link shared by you to download the app, you both will get 5 points. There is no limit
-            to number of friends you want to invite.</p>
-        <ol start="4">
+        <p style="text-align: left;">In the side menu, you can click on &lsquo;Invite and Earn&rsquo; and select friends
+            you want to invite. If your friend uses the link shared by you to download the app, you both will get 5
+            points. There is no limit to number of friends you want to invite.</p>
+        <ol style="text-align: left;" start="4">
             <li><strong>What is Scoreboard?</strong><br /> <img
                     src="https://api.pauzr.com/storage/bvvBBpftsE98CTqSnoQPHzXl4V1q5cGMd5l8Bx1v.jpeg" alt="" width="200"
                     height="356" /> <br /> Scoreboard displays leaderboard for Today, This Week, and This Month for your
@@ -61,42 +62,49 @@
                 how many points you have earned.</li>
             <li><strong>What is a successful timer session?</strong></li>
         </ol>
-        <p>Once the timer is started in the PauzR app, user must not leave the PauzR app. However, the user can lock the
-            phone. Even if user leaves the PauzR app by mistake in the middle of the session, an immediate notification
-            appears asking the user to continue the session. Clicking the notification takes the user back to the timer
-            screen. The buffer time for user to return back to the screen is 5 seconds.</p>
-        <ol start="6">
+        <p style="text-align: left;">Once the timer is started in the PauzR app, user must not leave the PauzR app.
+            However, the user can lock the phone. Even if user leaves the PauzR app by mistake in the middle of the
+            session, an immediate notification appears asking the user to continue the session. Clicking the
+            notification takes the user back to the timer screen. The buffer time for user to return back to the screen
+            is 5 seconds.</p>
+        <ol style="text-align: left;" start="6">
             <li><strong>Is internet required?</strong></li>
         </ol>
-        <p>Yes, please make sure the internet is ON.</p>
-        <ol start="7">
+        <p style="text-align: left;">Yes, please make sure the internet is ON.</p>
+        <ol style="text-align: left;" start="7">
             <li><strong>What is Winners list?<br /> <br /> </strong></li>
         </ol>
-        <p><img src="https://api.pauzr.com/storage/lNKj8yRHcOqAA2GFrjZ8XY05ml2OSJDpE29K5EGE.jpeg" alt="" width="196"
+        <p style="text-align: left;"><img
+                src="https://api.pauzr.com/storage/lNKj8yRHcOqAA2GFrjZ8XY05ml2OSJDpE29K5EGE.jpeg" alt="" width="196"
                 height="348" /><br /> This is the list of top 10 users across the nation. These users will be rewarded
             with gifts such as Paytm money or Amazon vouchers or Flipkart vouchers or etc. based on their ranks. The
             winners will be declared weekly and monthly. Also a winner&rsquo;s list will be posted on our Facebook page
             (Please follow to know about winners and latest gifts up for grab). To send the gifts, we might ask for your
             address if you are selected as Winner. Please note, users only from India will receive rewards currently. We
             will soon start rewarding the Winners list of other nations as well.</p>
-        <ol start="8">
+        <ol style="text-align: left;" start="8">
             <li><strong>How do we create Group?<br /> <img
                         src="https://api.pauzr.com/storage/BTPyBk6NU6LRzBOowQBG09y9IwQCQzp7FNACQKAi.jpeg" alt=""
                         width="170" height="302" /><br /> </strong></li>
         </ol>
-        <p>You can click on the BIG &lsquo;+&rsquo; icon at the right bottom corner, once you are on the Groups page.
-            You can add Group photo, Group description and start adding/inviting your contacts.<br /><br />&nbsp;
-            &nbsp;9.Will the user be <strong>charged</strong> anything for claiming the prize?</p>
-        <p>To claim weekly prize, user will be charged 51 points from the wallet.&nbsp;<br /> To claim monthly prize,
-            user will be charged 200 points from the wallet.<br />The prizes will be distributed without any extra cost.
-        </p>
-        <p>&nbsp;</p>
-        <p>&nbsp; 10.When will the winners be declared and informed?<br /> Weekly Winners will be declared on every
-            evenings of7<sup> th</sup>, 14th, 21st, 28th of the month on our Facebook/Instagram page. Also an email
-            would be sent to winners separately.<br /> Monthly Winners will be declared on the evening of last day of
-            the month.<br /> </p>
-        <p>&nbsp; &nbsp; &nbsp; 11. When will the prizes be <strong>dispatched</strong>?<br /> Prizes will be dispatched
-            within 3-4 business days of the announcement of the winners.</p>
+        <p style="text-align: left;">You can click on the BIG &lsquo;+&rsquo; icon at the right bottom corner, once you
+            are on the Groups page. You can add Group photo, Group description and start adding/inviting your
+            contacts.<br /><br />&nbsp; &nbsp;9.Will the user be <strong>charged</strong> anything for claiming the
+            prize?</p>
+        <p style="text-align: left;">To claim weekly prize, user will be charged 51 points from the wallet.&nbsp;<br />
+            To claim monthly prize, user will be charged 200 points from the wallet.<br />The prizes will be distributed
+            without any extra cost.</p>
+        <p style="text-align: left;">&nbsp;&nbsp;10. What is considered as 1 week and 1 month?<br /> For us, a week or a
+            month will start from every 1<sup>st</sup> of that month, irrespective of the day. And hence, a new week
+            starts from 7 days after that.</p>
+        <p style="text-align: left;">11. When will the winners be declared?<br /> Once a particular week is over (12
+            midnight, last day of the week), Weekly Winners will be declared in the morning of the first day of the next
+            week (the very next day) on our Facebook/Instagram page. Also an email would be sent to winners
+            separately.<br /> Once a particular month is over (12 midnight, last day of the month) Monthly Winners for a
+            particular month will be declared in the morning of first day of the next month (the very next day) on our
+            Facebook/Instagram page. Also an email would be sent to winners separately.<br /> </p>
+        <p style="text-align: left;">12. When will the prizes be <strong>dispatched</strong>?<br /> Prizes will be
+            dispatched within 3-4 business days of the announcement of the winners.</p>
     </div>
 
     <footer>
