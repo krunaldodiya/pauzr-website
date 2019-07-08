@@ -18,6 +18,10 @@ Route::get('/privacy', function () {
     return view('privacy');
 });
 
+Route::get('/faqs', function () {
+    return view('faqs');
+});
+
 Route::get('/banner/image', function () {
     $assetPath = public_path("images/bg-cta.jpg");
 

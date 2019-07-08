@@ -234,6 +234,7 @@
             <ul class="list-inline">
                 <li><a href="/privacy">Privacy</a></li>
                 <li><a href="/terms">Terms</a></li>
+                <li><a href="/faqs">FAQs</a></li>
             </ul>
             <p>Have any query? Mail us at <a href="mailto:support@pauzr.com">support@pauzr.com</a></p>
         </div>
