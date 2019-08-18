@@ -15,7 +15,7 @@ class Tag extends Model
     public function getValueAttribute($value)
     {
         if ($this->type == 'number') {
-            return intval($value);
+            return floatval($value);
         }
 
         return $value;
